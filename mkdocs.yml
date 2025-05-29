@@ -1,0 +1,9 @@
+
+site_name: Mi Examen
+theme:
+ name: material
+features:
+- navigation.tabs
+- navigation.sections
+- navigation.expand
+- content.code.copy
